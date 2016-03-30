@@ -1,2 +1,2 @@
-# datasciencecoursera-repo
+# datasciencecoursera
 DS Toolbox Assignment repo
